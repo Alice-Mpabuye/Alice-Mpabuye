@@ -6,10 +6,10 @@ Currently seeking an internship.
 
 ---
 
-### 💻 Technical Skills
+### Technical Skills
 Python • Java • Git • UML • Algorithm Design • OOP
 
 ---
 
-### 📫 Contact
-LinkedIn: 
+### Contact
+LinkedIn: www.linkedin.com/in/alice-mpabuye-b9496b342
